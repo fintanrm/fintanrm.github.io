@@ -1,0 +1,13 @@
+# Site settings
+title: Fintan Mason
+email: fintanmason@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Well hi. I'm on a mission to capture all this delectable planet has to offer for you to indulge in.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://fintanrm.github.io" # the base hostname & protocol for your site
+twitter_username: fintanmason
+
+# Build settings
+markdown: kramdown
+sass:
+    sass_dir: assets/css
